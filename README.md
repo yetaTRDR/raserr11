@@ -1,7 +1,7 @@
 # ![RAUL](https://img.shields.io/badge/I'M_RAUL-%20-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)
 
 
-I'm a **Computer Science** student from Andalusia, Spain. For nearly a year, I've been self-learning **Python programming**, focusing on **data science** and **creating tools** for data processing and analysis.
+I'm a **Computer Science** student from Andalusia, Spain. I've been self-learning **Python programming**, focusing on **data science** and **creating tools** for data processing and analysis since 2023.
 
 ## ![skills](https://img.shields.io/badge/SKILLS_&_TECHNOLOGIES-%20-yellow?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)
 
