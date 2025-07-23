@@ -27,7 +27,10 @@ I am **eager to work and learn** on any type of project that allows me to grow p
 
 ## ![Projects](https://img.shields.io/badge/Projects-%20-purple?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)
 
-- **[CUPS Report Analyzer](https://github.com/raserr11/CUPX)**: A Python-based web app designed to streamline the process of analyzing electric consumption reports for companies. It provides valuable insights in a faster, more visual, and cleaner way.
+- **[CUPS Report Analyzer](https://github.com/yetaTRDR/CUPX)**: A Python-based web app designed to streamline the process of analyzing electric consumption reports for companies. It provides valuable insights in a faster, more visual, and cleaner way.
+- **[kmeans3d](https://github.com/raserr11/kmeans3d)**: A Python-based project where I implement the K-means algorithm from scratch using only mathematics and NumPy, with 3D visualization of clustering results applied to gold price data. This project is part of my focus on developing tools for financial markets, whether optimal or not, purely for learning purposes.
+- **[perceptron](https://github.com/raserr11/perceptron)**: A Python-based project where I implement both a single **Perceptron** (artificial neuron) and a **Multi-Layer Perceptron (MLP)** from scratch, using only mathematical formulas and NumPy. This project aims to understand and implement neural networks from the ground up.
+
 
  To be continued ...
 
