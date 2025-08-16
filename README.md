@@ -48,7 +48,5 @@ I am **eager to work and learn** on any type of project that allows me to grow p
 
 Thank you for visiting my profile! 🚀
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raserr11&show_icons=true&theme=dracula)
 
